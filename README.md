@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="[URL_DA_SUA_IMAGEM_DE_BANNER]" alt="Banner do Perfil">
+  <img src="https://i.imgur.com/rOESSPP.png" alt="Banner do Perfil">
   <h1 align="center">Olá, meu nome é Matheus Galvão! 👋</h1>
   <strong>Desenvolvedor Front End | Apaixonado por Web Design, UI Design e toda  a parte visual de todo e qualquer programa ou site</strong>
 </div>
