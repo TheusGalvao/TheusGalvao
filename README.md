@@ -4,8 +4,21 @@
   <strong>Desenvolvedor Front End | Apaixonado por Web Design, UI Design e toda  a parte visual de todo e qualquer programa ou site</strong>
 </div>
 
----
-<br>
+## Se conecte comigo!
+<div align="center">
+<a href="https://www.linkedin.com/in/matheus-galv%C3%A3o-6009a6208/" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+</a>
+<a href="mailto:matheusgalvao2203@gmail.com" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=007BFF" alt="E-mail">
+</a>
+<a href="https://www.instagram.com/_theusgalvao_/" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
+</a>
+<a href="https://github.com/TheusGalvao" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+</a>
+</div>
 <p align="center">
       <a href="https://github.com/TheusGalvao?tab=followers">
          <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/TheusGalvao?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
@@ -35,22 +48,6 @@
   <br>
   📫 Entre em contato comigo na seção abaixo:
 </p>
-
-## Se conecte comigo!
-<div align="center">
-<a href="https://www.linkedin.com/in/matheus-galv%C3%A3o-6009a6208/" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-</a>
-<a href="mailto:matheusgalvao2203@gmail.com" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=007BFF" alt="E-mail">
-</a>
-<a href="https://www.instagram.com/_theusgalvao_/" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
-</a>
-<a href="https://github.com/TheusGalvao" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-</a>
-</div>
 
 ---
 
