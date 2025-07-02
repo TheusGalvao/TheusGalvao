@@ -21,11 +21,8 @@
 </a>
 <a href="https://github.com/TheusGalvao" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-      <a href="https://github.com/TheusGalvao?tab=followers">
-         <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/TheusGalvao?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
-      <a href="https://github.com/TheusGalvao?tab=repositories&sort=stargazers">
-         <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/TheusGalvao?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
-   </p>
+      <a href="https://github.com/TheusGalvao">
+         <img alt="GitHub" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/TheusGalvao?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
 
 ---
 
